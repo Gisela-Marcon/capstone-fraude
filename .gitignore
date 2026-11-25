@@ -1,0 +1,14 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+
+
+# Virtual environments
+.venv
+;0.docs-aulas
+/1.data
+/1.data/2.processed/.gitkeep
